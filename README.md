@@ -2,7 +2,8 @@
 
 **Autor:** Rodrigo Carneiro Macedo  
 **Número:** A104523
-<img src="images/foto.jpg" alt="Foto" width="200">
+
+<img src="images/foto.jpg" alt="Foto" width="100">
 
 
 
