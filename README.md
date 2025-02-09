@@ -2,8 +2,9 @@
 
 **Autor:** Rodrigo Carneiro Macedo  
 **Número:** A104523
-![Foto](images/foto.jpg)
+<img src="images/foto.jpg" alt="Foto" width="200">
+
 
 
 ## Sobre o Repositório
-Este repositório contém os TPC da disciplina PL2025. Cada TPC está organizado na sua própria pasta, contendo código, documentos e um manifesto descrevendo o trabalho realizado.
+Este repositório contém os TPC da disciplina de Processamento de Linguagens do ano letivo 2024/2025, curso LEI da Universidade do Minho. Cada TPC está organizado na sua própria pasta, contendo código, documentos e um manifesto descrevendo o trabalho realizado.
